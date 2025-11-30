@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Rezky Maulana Rosa — Full Stack Developer<br><br>Saya seorang Full Stack Developer yang berfokus pada pembuatan aplikasi web modern, cepat, dan scalable.<br>Saya biasa bekerja dengan Laravel untuk backend serta memanfaatkan berbagai teknologi frontend untuk membangun UI yang responsif dan nyaman digunakan.<br><br>💡 Apa yang Saya Kerjakan<br><br>Membangun RESTful API menggunakan Laravel & PHP<br><br>Mengembangkan frontend interaktif dengan TailwindCSS, Vue, atau React<br><br>Mendesain sistem autentikasi, manajemen user, dan dashboard admin<br><br>Membuat sistem booking, tracking, hingga sistem real-time<br><br>Integrasi dengan Midtrans, Firebase, Maps API, dan berbagai layanan pihak ketiga<br><br>Deploy aplikasi ke hosting, VPS, atau platform cloud<br><br>🧰 Tech Stack<br><br>Backend: Laravel, PHP, Node.js, Express<br><br>Frontend: HTML, CSS, TailwindCSS, JavaScript, Vue/React<br><br>Database: MySQL, PostgreSQL, Firebase<br><br>Tools: Git, Postman, Composer, NPM<br><br>Deployment: cPanel, Nginx, Apache, VPS<br><br><br>📬 Hubungi Saya<br><br>Jika ingin bekerja sama atau butuh bantuan projek, feel free to reach me!<br>📧 Email: rezkymr17a@gmail.com
+👋 Hi, I'm Rezky Maulana Rosa — Full Stack Developer<br>
 
 
 ## 🌐 Socials:
